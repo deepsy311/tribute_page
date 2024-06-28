@@ -1,0 +1,30 @@
+body { 
+    font-size: medium;
+    padding: 10px;
+    margin: 10px;
+}
+
+.main { 
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+    background-color: beige;
+    padding: 10px;
+}
+
+.pointers { 
+    text-align: center;
+    background-color: #EEEDEB;
+
+}
+
+.pointers > ol > li { 
+    padding: 10px;
+    
+}
+
+p.testimonial { 
+    background-color: #FFF455;
+    padding: 10px;
+    font-size: 0.8em;
+}
